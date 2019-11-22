@@ -1,6 +1,6 @@
 # trees_benchmark
 
-Simple benchmark usiTree based algoritms:
+Simple benchmark using Tree based algoritms:
 
 * Extreme Trees
 * Random Forest
